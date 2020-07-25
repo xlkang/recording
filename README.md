@@ -3,4 +3,4 @@
 
 ## 目录
 
-1. (在ipad上体验vscode在线开发)[https://github.com/xlkang/recording/issues/1]
+1. [在ipad上体验vscode在线开发](https://github.com/xlkang/recording/issues/1)
