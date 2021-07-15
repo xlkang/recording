@@ -9,4 +9,5 @@
 04. [在create-react-app(eject)模板项目基础上的动态多页打包方案](https://github.com/xlkang/recording/issues/4)
 05. [React Fiber](https://github.com/xlkang/recording/issues/5)
 06. [排查一个webpack构建耗时异常的问题](https://github.com/xlkang/recording/issues/6)
+07. [如何用Babel做静态分析和代码转换](https://github.com/xlkang/recording/issues/7)
 
